@@ -1,0 +1,6 @@
+{
+  "name": "Electro Control | أنظمة التحكم وتصنيع الـ PCB",
+  "description": "شركة Electro Control لتصميم وتصنيع وتجميع بوردات الـ PCB، أنظمة التحكم الصناعية، برمجة الميكروكنترولر، وحلول إنترنت الأشياء الصناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
